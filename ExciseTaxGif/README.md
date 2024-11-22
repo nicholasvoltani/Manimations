@@ -1,6 +1,6 @@
 # Excise Tax animations
 ## Preview
-
+https://github.com/nicholasvoltani/Manimations/blob/master/ExciseTaxGif/excise_tax_gif.mp4
 
 ## References
 - "Manim Sideview": https://www.youtube.com/watch?v=sFpFlMEu7OY (I'm using it for my Manim workflow, it's great!)
