@@ -1,6 +1,6 @@
 # Excise Tax animations
 ## Preview
-https://github.com/user-attachments/assets/70558a07-26ab-4a0c-993f-b8a82bcbddf1
+https://github.com/user-attachments/assets/8f11d917-ee85-484f-9e90-e00fc55b7b46
 
 ## References
 - "Manim Sideview": https://www.youtube.com/watch?v=sFpFlMEu7OY (I'm using it for my Manim workflow, it's great!)
